@@ -1,7 +1,7 @@
 # PCA: EXP-1  SUM ARRAY GPU
 <h3>ENTER YOUR NAME:Manoj kumar S</h3>
 <h3>ENTER YOUR REGISTER NO:212222040097</h3>
-<h3>EX. NO:03</h3>
+<h3>EX. NO:01</h3>
 <h3>DATE:15/04/25</h3>
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
 PCA-GPU-based-vector-summation.-Explore-the-differences.
